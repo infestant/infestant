@@ -4,6 +4,12 @@
 
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chelsea+Market&duration=3500&pause=200&color=E1F7E0&center=true&width=435&lines=SHIPS+%2B+RP+DNI+%5En%5E;DIE+OF+DEATH+FANS+INTERACT!)](https://git.io/typing-svg)
+
+</div>
+
 ---
 
 <div align="center">
@@ -13,3 +19,7 @@
 </div>
 
 ---
+<details>
+<summary>INFO</summary>
+
+</details>
